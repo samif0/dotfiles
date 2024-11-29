@@ -1,0 +1,42 @@
+[font]
+  size = 18.0
+  normal.family = "EnvyCodeR Nerd Font"
+#normal.family = "Hack Nerd Font"
+  bold.family = "EnvyCodeR Nerd Font"
+  italic.family = "EnvyCodeR Nerd Font"
+  bold_italic.family = "EnvyCodeR Nerd Font"
+
+[colors]
+# Base16 Black Metal (Burzum) color scheme
+
+# Default colors
+[colors.primary]
+background = '#000000'
+foreground = '#c1c1c1'
+
+# Normal colors
+[colors.normal]
+black   = '#000000'
+red     = '#5f8787'
+green   = '#ddeecc'
+yellow  = '#99bbaa'
+blue    = '#888888'
+magenta = '#999999'
+cyan    = '#aaaaaa'
+white   = '#c1c1c1'
+
+# Bright colors
+[colors.bright]
+black   = '#333333'
+red     = '#5f8787'
+green   = '#ddeecc'
+yellow  = '#99bbaa'
+blue    = '#888888'
+magenta = '#999999'
+cyan    = '#aaaaaa'
+white   = '#c1c1c1'
+
+# Cursor colors
+[colors.cursor]
+text = '#000000'
+cursor = '#c1c1c1'
